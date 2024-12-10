@@ -1,0 +1,5 @@
+C:\Users\Guilherme\Documents\My Games\Terraria\tModLoader\ModSources\PlentyODarts\obj\Debug\net8.0\PlentyODarts.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Documents\My Games\Terraria\tModLoader\ModSources\PlentyODarts\obj\Debug\net8.0\PlentyODarts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Documents\My Games\Terraria\tModLoader\ModSources\PlentyODarts\obj\Debug\net8.0\PlentyODarts.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Documents\My Games\Terraria\tModLoader\ModSources\PlentyODarts\obj\Debug\net8.0\PlentyODarts.AssemblyInfo.cs
+C:\Users\Guilherme\Documents\My Games\Terraria\tModLoader\ModSources\PlentyODarts\obj\Debug\net8.0\PlentyODarts.csproj.CoreCompileInputs.cache

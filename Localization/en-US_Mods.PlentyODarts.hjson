@@ -1,0 +1,30 @@
+DamageClasses.DartDamage.DisplayName: Dart Damage
+
+Items: {
+	WoodenDart: {
+		Tooltip: The classic,Good and Reliable
+		DisplayName: Wooden Dart
+	}
+
+	StarryDart: {
+		DisplayName: Starry Dart
+		Tooltip: A fragment of the stars
+	}
+
+	PoisonDart: {
+		DisplayName: Poison Dart
+		Tooltip: It Stings!
+	}
+
+	FrostDart: {
+		DisplayName: Frost Dart
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	WoodenDartProj.DisplayName: Wooden Dart
+	StarryDartProj.DisplayName: Starry Dart
+	PoisonDartProj.DisplayName: Poison Dart
+	FrostDartProj.DisplayName: Frost Dart Proj
+}
