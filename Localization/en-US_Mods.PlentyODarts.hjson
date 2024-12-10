@@ -20,6 +20,11 @@ Items: {
 		DisplayName: Frost Dart
 		Tooltip: ""
 	}
+
+	FieryDart: {
+		DisplayName: Fiery Dart
+		Tooltip: ""
+	}
 }
 
 Projectiles: {
@@ -27,4 +32,5 @@ Projectiles: {
 	StarryDartProj.DisplayName: Starry Dart
 	PoisonDartProj.DisplayName: Poison Dart
 	FrostDartProj.DisplayName: Frost Dart Proj
+	FieryDartProj.DisplayName: Fiery Dart Proj
 }
