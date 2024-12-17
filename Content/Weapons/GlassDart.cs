@@ -2,6 +2,8 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
+using PlentyODarts.Content.Projectiles;
+
 namespace PlentyODarts.Content.Weapons {
   public class GlassDart : ModItem {
 
@@ -32,8 +34,8 @@ namespace PlentyODarts.Content.Weapons {
 
       i.consumable = true;
       i.maxStack = 999;
-      // i.shoot = 
-      // i.shootSpeed = 
+      i.shoot = ModContent.ProjectileType<GlassDartProj>();
+      i.shootSpeed = 16; 
     }
 
     public override void AddRecipes() {

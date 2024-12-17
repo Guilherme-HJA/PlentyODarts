@@ -2,28 +2,57 @@ DamageClasses.DartDamage.DisplayName: Dart Damage
 
 Items: {
 	WoodenDart: {
-		Tooltip: The classic,Good and Reliable
 		DisplayName: Wooden Dart
+		Tooltip: '[c/346450:"The classic, Good and Reliable"]'
 	}
 
 	StarryDart: {
 		DisplayName: Starry Dart
-		Tooltip: A fragment of the stars
+		Tooltip: 
+		'''
+		Critical hits makes a star fall from the sky...
+		Yes, even at daytime...
+	
+		[c/346450:"A fragment of the stars"]
+		'''
 	}
 
 	PoisonDart: {
 		DisplayName: Poison Dart
-		Tooltip: It Stings!
+		Tooltip: 
+		'''
+		Critical Hits leaves the target poisoned regardless of immunities.
+
+		[c/346450:"It Stings!"]
+		'''
 	}
 
 	FrostDart: {
 		DisplayName: Frost Dart
-		Tooltip: ""
+		Tooltip: 
+		'''
+		Critical Hits inflicts Frostburn regardless of target immunities.
+
+		[c/346450:"Chilly... Extra Chilly..."]
+		'''
 	}
 
 	FieryDart: {
 		DisplayName: Fiery Dart
-		Tooltip: ""
+		Tooltip: Critical Hits renders the target on fire regardless of immunities.
+	}
+
+	GlassDart: {
+		DisplayName: Glass Dart
+		Tooltip: 
+			'''
+			Critical Hits inflicts Bleeding regardless of target immunities. 
+			Additionally, upon hitting the ground or inflicting critical hits,
+			an unpredictable amount of shards will spread causing damage to ANYONE around, inflicting bleeding.
+			Shards do bonus damage to already bleeding targets.
+
+			[c/346450:"Now why would even use such thing???"]
+			'''
 	}
 }
 
@@ -31,6 +60,8 @@ Projectiles: {
 	WoodenDartProj.DisplayName: Wooden Dart
 	StarryDartProj.DisplayName: Starry Dart
 	PoisonDartProj.DisplayName: Poison Dart
-	FrostDartProj.DisplayName: Frost Dart Proj
-	FieryDartProj.DisplayName: Fiery Dart Proj
+	FrostDartProj.DisplayName: Frost Dart
+	FieryDartProj.DisplayName: Fiery Dart
+	GlassDartProj.DisplayName: Glass Dart
+	GlassDartShardProj.DisplayName: Glass Shard
 }
